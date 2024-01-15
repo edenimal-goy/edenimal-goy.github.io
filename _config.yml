@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Enora Denimal Goy"
-  avatar           : "profile.png"
+  avatar           : "Inria-0459-343.jpg" #"profile.png"
   bio              : "Researcher at Inria Saclay in Platon team"
   location         : "Saclay, France"
   employer         :
