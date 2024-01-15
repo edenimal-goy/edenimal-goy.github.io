@@ -7,32 +7,32 @@ author_profile: true
 
 ## On-going supervision
 
-#### PhD Student
+### PhD Student
 
 - Omar Kahol (IPP), Robust model calibration, with P.M. Congedo and O. Le Maitre (2023-2026)
 - Nina Delette (Univ Rennes, IFPEN), Robust fault localisation for wind turbine monitoring, with L. Mevel, JL Pfister, JM Leroy and R. El Amri (2023-2026)
 - Hugo Masson (ENPC), Robust topology optimisation for metallic 3D printing, with M. Peigney (2023-2026)
 
-#### Postdoc
+### Postdoc
 
 - Adrien Mélot, Structural optimisation of nonlinear dynamical systems with bifurcation behaviour, with L. Renson (2022-2024) 
 - Vincent Mahé, Topology optimisation for periodic structures, with C. Droz (2023-2024)
 
-#### Master Students
+### Master Students
 - D. Stancic (FYP - Imperial College)}: Modelling of powder damping in 3D-printed components, with L. Renson (2023-2024)
 
 ## Previous supervision
 
-#### Postdoc
+### Postdoc
 
 - S. Mahato, Méthodes de classification pour le traitement de données éoliennes, with X. Chapeleau, M. Doehler, L. Mevel (2020-2021).
 
-#### PhD Student
+### PhD Student
 
 - Ambroise Cadoret (Univ. Rennes), OMA methods for wind turbine monitoring, with L. Mevel, JL Pfister and JM Leroy (2020-2023). Now Engineer at GreenWITZ.
 - Yekai Sun (Imperial College London), Nonlinear Modal Analysis for Blisks with Friction Dampers, with L. Salles and J. Yuan (2028-2021).
 
-#### Master Students and Interns
+### Master Students and Interns
 - 2023 - A. Akbar Rida (M2), Bayesian model updating for robust fault detection in a FEM of a cracked beam.
 - 2023 - M. Nolot (L3), ML for bifurcation prediction in friction induced vibrations
 - 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades
