@@ -15,9 +15,9 @@ I am a researcher at Inria Saclay, near Paris, in the team Platon. The team PLAT
 
 My research is focused on the development of numerical methods for Uncertainty Quantification (UQ) and robust optimisation and their application in nonlinear dynamic structures for various real-world applications (automotive, aerospace, wind turbine etc). So far, I have worked on the following topics:
 
+- Uncertainty propagation and quantification for large-scale nonlinear structures
 - Structural dynamics and non-linear vibrations
 - Contact, friction and friction-induced vibrations
-- Uncertainty propagation and quantification for large-scale nonlinear structures
 - Surrogate modelling
 - Global optimisation
 - Topology optimisation and 3D-printing
