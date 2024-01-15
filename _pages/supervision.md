@@ -5,7 +5,8 @@ permalink: /supervision/
 author_profile: true
 ---
 
-## On-going supervision
+On-going supervision
+==
 
 ### PhD Student
 
@@ -21,7 +22,8 @@ author_profile: true
 ### Master Students
 - D. Stancic (FYP - Imperial College)}: Modelling of powder damping in 3D-printed components, with L. Renson (2023-2024)
 
-## Previous supervision
+Previous supervision
+==
 
 ### Postdoc
 
@@ -33,8 +35,8 @@ author_profile: true
 - Yekai Sun (Imperial College London), Nonlinear Modal Analysis for Blisks with Friction Dampers, with L. Salles and J. Yuan (2028-2021).
 
 ### Master Students and Interns
-- 2023 - A. Akbar Rida (M2), Bayesian model updating for robust fault detection in a FEM of a cracked beam.
-- 2023 - M. Nolot (L3), ML for bifurcation prediction in friction induced vibrations
+- 2023 - A. Akbar Rida (M2) - Inria, Bayesian model updating for robust fault detection in a FEM of a cracked beam.
+- 2023 - M. Nolot (L3) - Inria, ML for bifurcation prediction in friction induced vibrations
 - 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades
 - 2022 - E. Valdecasa (M1)  - Imperial College/Inria, Impression 3D et validation expérimentales de structures non-linéaires vibrantes
 - 2022 - S. Fruchard (M2) - Inria, Topology optimisation of 3D beams for vibration by global optimisation technics 
