@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find bellow a list of my journal publications, for an updated list you can also refer to my [Google Scholar](https://scholar.google.com/citations?user=ZpAauKQAAAAJ&hl=en)
+You can find below a list of my different contributions, for an updated list you can also refer to my [Google Scholar](https://scholar.google.com/citations?user=ZpAauKQAAAAJ&hl=en)
 
+<details>
+  <summary><b>Journal papers</b></summary>
+  
 - A. Mélot, E. Denimal, L. Renson,  _Multi-parametric optimization of bifurcation structures_, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, [HAL](https://hal.science/hal-04378993).
 - A. Bisoi, M. Tüfekci, V. Öztekin, E. Denimal, L. Salles, _Experimental Investigation of Mechanical Properties of Additively Manufactured Fibre-Reinforced Composite Structures for Robotic Applications_, Applied Composite Materials (2023) [DOI](https://doi.org/10.1007/s10443-023-10179-9), **Open Access**.
 - E. Denimal, J-J. Sinou, _Efficient parametric study of a stochastic airfoil system based on hybrid surrogate modelling with advanced automatic kriging construction_, European Journal of Mechanics - A/Solids, 104926 (2023) [DOI](https://doi.org/10.1016/j.euromechsol.2023.104926), **Open Access**.
@@ -28,6 +31,7 @@ You can find bellow a list of my journal publications, for an updated list you c
 - E. Denimal, J-J. Sinou, S. Nacivet and L. Nechak, _Squeal analysis based on the effect and determination of the most influential contacts between the different components of an automotive brake system_, International journal of mechanical sciences, 2019, 151:192-213, [DOI](https://doi.org/10.1016/j.ijmecsci.2018.10.054) [HAL](https://hal.archives-ouvertes.fr/hal-02957511).
 - E. Denimal, L. Nechak, J-J. Sinou, J. J. and S. Nacivet, _A novel hybrid surrogate model and its application on a mechanical system subjected to friction-induced vibration_, Journal of Sound and Vibration, 2018, 434:456-474, [DOI](https://doi.org/10.1016/j.jsv.2017.08.005) [HAL](https://hal.inria.fr/hal-02957474)
 - E. Denimal, L. Nechak, J-J. Sinou and S. Nacivet, _Kriging Surrogate Models for Predicting the Complex Eigenvalues of Mechanical Systems Subjected to Friction-Induced Vibration_,  Shock and Vibration, 2016, [DOI](https://doi.org/10.1155/2016/3586230), **Open Access**.
+</details>
 
 <!-----
 {% if author.googlescholar %}
