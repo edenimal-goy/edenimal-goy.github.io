@@ -11,7 +11,8 @@ You can find below a list of my different contributions, for an updated list you
   <summary><b>Patents</b></summary>
 
 - E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet International PCT/FR2019/052753, November 2019.
-- E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet France FR1872222, December 2018. 
+- E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet France FR1872222, December 2018.
+  
 </details>
 
 <details>
@@ -38,6 +39,7 @@ You can find below a list of my different contributions, for an updated list you
 - E. Denimal, J-J. Sinou, S. Nacivet and L. Nechak, _Squeal analysis based on the effect and determination of the most influential contacts between the different components of an automotive brake system_, International journal of mechanical sciences, 2019, 151:192-213, [DOI](https://doi.org/10.1016/j.ijmecsci.2018.10.054) [HAL](https://hal.archives-ouvertes.fr/hal-02957511).
 - E. Denimal, L. Nechak, J-J. Sinou, J. J. and S. Nacivet, _A novel hybrid surrogate model and its application on a mechanical system subjected to friction-induced vibration_, Journal of Sound and Vibration, 2018, 434:456-474, [DOI](https://doi.org/10.1016/j.jsv.2017.08.005) [HAL](https://hal.inria.fr/hal-02957474)
 - E. Denimal, L. Nechak, J-J. Sinou and S. Nacivet, _Kriging Surrogate Models for Predicting the Complex Eigenvalues of Mechanical Systems Subjected to Friction-Induced Vibration_,  Shock and Vibration, 2016, [DOI](https://doi.org/10.1155/2016/3586230), **Open Access**.
+  
 </details>
 
 <details>
@@ -67,6 +69,7 @@ You can find below a list of my different contributions, for an updated list you
 - E. Denimal, S. Nacivet, L. Nechak, J-J. Sinou, _On the influence of multiple contact conditions on brake squeal_, Eurodyn 2017, Sept 2017, Roma, Italy
 Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.proeng.2017.09.355) [HAL](https://hal.archives-ouvertes.fr/hal-03256383v1).
 - E. Denimal, L. Nechak, J-J. Sinou, S. Nacivet, _A New Surrogate Modeling Method Associating Generalized Polynomial Chaos Expansion and Kriging for Mechanical Systems Subjected to Friction-Induced Vibration_,  IMAC XXXVth, Feb 2017, Los Angeles, California, USA, Special Topics in Structural Dynamics, Vol. 6, pp. 17-23, [DOI](http://dx.doi.org/10.1007/978-3-319-53841-9_2).
+  
 </details>
 
 <details>
@@ -81,6 +84,7 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 -  \textbf{E. Denimal}, S. Nacivet, L. Nechak, J-J. Sinou, \textit{Influence des conditions de contact sur le crissement de frein}, Colloque national en calcul des structures, Giens (France), 15-19 mai 2017. \href{https://hal.archives-ouvertes.fr/hal-01899348v1}{<hal-01899348v1>}
 -  \textbf{E. Denimal}, S. Nacivet, L. Nechak, J-J. Sinou, \textit{Influence des états de contact sur le crissement de frein}, Journées Jeunes Chercheurs en Acoustique, Vibration et Bruit, Marseille (France), 17-18 novembre 2016.
 -  \textbf{E. Denimal}, A. Carbonelli, J. Perret-Liaudet, E. Rigaud, \textit{Static Transmission Error computation in planetary gears by quadratic optimization}, Journées des Transmissions Mécaniques 2016, Juillet 2016, Lyon.
+
 </details>
 
 <details>
@@ -100,6 +104,7 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 -  \textbf{E. Denimal}, \textit{Mise en œuvre d'un algorithme génétique et d'une méta-modélisation pour le crissement de frein} , Séminaire PSA Réseau des systèmes dynamiques amortis, non-linéaires et incertains, 15/12/2017.
 -  \textbf{E. Denimal}, \textit{Meta-modelling and uncertainties for mechanical systems subjected to friction-induced vibration}, {Séminaire invitée Imperial College London}, 27/09/2017.
 -  \textbf{E. Denimal}, \textit{Etudes sur la linéarisation et la méta-modélisation pour la prestation crissement de frein}, Séminaire PSA Réseau des systèmes dynamiques amortis, non-linéaires et incertains, 31/11/2016.
+  
 </details>
 
 <!-----
