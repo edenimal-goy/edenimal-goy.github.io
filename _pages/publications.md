@@ -7,16 +7,14 @@ author_profile: true
 
 You can find below a list of my different contributions, for an updated list you can also refer to my [Google Scholar](https://scholar.google.com/citations?user=ZpAauKQAAAAJ&hl=en)
 
-<details>
-  <summary><b>Patents</b></summary>
+<details><summary><b>Patents</b></summary>
 
 - E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet International PCT/FR2019/052753, November 2019.
 - E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet France FR1872222, December 2018.
   
 </details>
 
-<details>
-  <summary><b>Journal papers</b></summary>
+<details><summary><b>Journal papers</b></summary>
   
 - A. Mélot, E. Denimal, L. Renson,  _Multi-parametric optimization of bifurcation structures_, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, [HAL](https://hal.science/hal-04378993).
 - A. Bisoi, M. Tüfekci, V. Öztekin, E. Denimal Goy, L. Salles, _Experimental Investigation of Mechanical Properties of Additively Manufactured Fibre-Reinforced Composite Structures for Robotic Applications_, Applied Composite Materials (2023) [DOI](https://doi.org/10.1007/s10443-023-10179-9), **Open Access**.
