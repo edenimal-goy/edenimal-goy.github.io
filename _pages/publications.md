@@ -7,6 +7,15 @@ author_profile: true
 
 You can find below a list of my different contributions, for an updated list you can also refer to my [Google Scholar](https://scholar.google.com/citations?user=ZpAauKQAAAAJ&hl=en)
 
+<details open>
+<summary>Shopping list</summary>
+
+* Vegetables
+* Fruits
+* Fish
+
+</details>
+
 <details><summary><b>Je t'aime</b></summary>
         
 * à l'infini
