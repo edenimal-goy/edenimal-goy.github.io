@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Home
-======
 
 I am a researcher at Inria Saclay, near Paris, in the team Platon. The team PLATON is part of the CMAP (Centre de Mathématiques Appliquées, École Polytechnique – UMR7641 CNRS – Institut Polytechnique de Paris), and affiliated with the Inria Saclay Île-de-France Research Center on the École Polytechnique campus.
 
