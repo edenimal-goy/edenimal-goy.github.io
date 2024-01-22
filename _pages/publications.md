@@ -12,7 +12,8 @@ You can find below a list of my different contributions, for an updated list you
   <summary><b>Patents</b></summary>
 
 * E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet International PCT/FR2019/052753, November 2019.
-* E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet France FR1872222, December 2018.  
+* E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet France FR1872222, December 2018.
+  
 </details>
 
 <details>
