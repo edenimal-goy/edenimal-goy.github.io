@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2024-now: Inria researcher, Platon team, Inria Saclay, France
+* 2020-2023: Inria researcher, I4S team, Inria Rennes , France
+* 2019-2020: Research Associate, Imperial College London, VUTC team, UK
+* 2015-2018: PhD in Mechanical Engineering, Laboratory of Tribology and Dynamics of Systems UMR CNRS 5513, Ecole Centrale de Lyon, France
+* 2014-2015: MSc in Structural Dynamics, Ecole Centrale of Lyon, France 
+* 2012-2015: Engineering degree, Ecole Centrale of Lyon, France
 
-Work experience
+Community work
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023-now: Board member of the French research group (GDR) [EX-MODELI](https://events.femto-st.fr/GdR-EX-MODELI/)
+* 2023-now: Member of the Inria national [Committee on Gender Equality and Equal Opportunities](https://parite.inria.fr/en/)
+* 2021-2023: Member of the [Committee on Gender Equality](https://egalite-fh.irisa.fr/) of the Inria Center of Rennes
+* 2021-2023: Member of the [Moral and Harassment Awareness Committee](https://nonauharcelement.irisa.fr/en/)
