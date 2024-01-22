@@ -83,7 +83,7 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 -  \textbf{E. Denimal}, A. Carbonelli, J. Perret-Liaudet, E. Rigaud, \textit{Static Transmission Error computation in planetary gears by quadratic optimization}, Journées des Transmissions Mécaniques 2016, Juillet 2016, Lyon.
 
 </details>
----->
+
 
 <details>
   <summary><b>Seminars and workshops</b></summary>
@@ -104,6 +104,8 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 -  \textbf{E. Denimal}, \textit{Etudes sur la linéarisation et la méta-modélisation pour la prestation crissement de frein}, Séminaire PSA Réseau des systèmes dynamiques amortis, non-linéaires et incertains, 31/11/2016.
   
 </details>
+---->
+
 
 <!-----
 {% if author.googlescholar %}
