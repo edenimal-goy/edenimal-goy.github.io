@@ -14,6 +14,15 @@ You can find below a list of my different contributions, for an updated list you
   
 </details>
 
+
+<details><summary><b>Je t'aime</b></summary>
+        
+    * à l'infini
+    * pour l'infini
+    * jusqu'à l'infini
+        
+</details>
+
 <details>
   <summary><b>Patents</b></summary>
 
