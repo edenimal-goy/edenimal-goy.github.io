@@ -15,4 +15,12 @@ You can find below a list of my different contributions, for an updated list you
     </ol>
 </details>
 
+<details open>
+  <summary>Overview</summary>
+  <ol>
+    <li>Cash on hand: $500.00</li>
+    <li>Current invoice: $75.30</li>
+    <li>Due date: 5/6/19</li>
+  </ol>
+</details>
 
