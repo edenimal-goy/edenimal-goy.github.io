@@ -85,15 +85,15 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 <details>
   <summary><b>National communications</b></summary>
 
-- A. Cadoret, \textbf{E. Denimal}, J-M Leroy, J-L Pfister, L. Mevel, \textit{Détection d'anisotropie d'un rotor d'éolienne par suivi du changement de phase des modes propres}, Congrès Français de Mécanique, Nantes, Sept 2022. \href{https://hal.inria.fr/hal-03859882}{<hal-03859882>}
-- \textbf{E. Denimal}, J-J. Sinou, \textit{Méta-modélisation avancée et analyse de sensibilité pour la dynamique des rotors en contexte incertain}, Congrès Français de Mécanique, Nantes, Sept 2022.\href{https://hal.inria.fr/hal-03859895}{<hal-03859895>}
-- \textbf{E. Denimal}, L. Renson, L. Salles, \textit{Optimisation topologique d'amortisseurs par frottement pour la réduction des résonances non-linéaires par approches MMC et EGO}, CSMA 2022, Giens, Mai 2022. \href{https://hal.archives-ouvertes.fr/hal-03717948v1}{<hal-03717948v1>}
--  \textbf{E. Denimal}, \textit{Prédiction des instabilités de frottement par méta-modélisation et approches fréquentielles - Application au crissement de frein automobile}, Colloque de Recherche Inter Ecoles Centrales, \textbf{Invit\'ee}, Lyon (France), 18 juin 2019.
--  \textbf{E. Denimal}, \textit{Prédiction des instabilités de frottement par méta-modélisation et approches fréquentielles - Application au crissement de frein automobile}, Colloque national en calcul des structures, \textbf{Invit\'ee} , Giens (France), 13-17 mai 2019.
--  \textbf{E. Denimal}, J-J. Sinou, S. Nacivet, \textit{Mise en place d'une technique numérique pour l'estimation de vibrations non-linéaires auto-entretenues avec frottement - Application à la prédiction du crissement de frein automobile}, Colloque national en calcul des structures, Giens (France), 13-17 mai 2019.\href{https://hal.archives-ouvertes.fr/hal-02449146v1}{<hal-02449146v1>}
--  \textbf{E. Denimal}, S. Nacivet, L. Nechak, J-J. Sinou, \textit{Influence des conditions de contact sur le crissement de frein}, Colloque national en calcul des structures, Giens (France), 15-19 mai 2017. \href{https://hal.archives-ouvertes.fr/hal-01899348v1}{<hal-01899348v1>}
--  \textbf{E. Denimal}, S. Nacivet, L. Nechak, J-J. Sinou, \textit{Influence des états de contact sur le crissement de frein}, Journées Jeunes Chercheurs en Acoustique, Vibration et Bruit, Marseille (France), 17-18 novembre 2016.
--  \textbf{E. Denimal}, A. Carbonelli, J. Perret-Liaudet, E. Rigaud, \textit{Static Transmission Error computation in planetary gears by quadratic optimization}, Journées des Transmissions Mécaniques 2016, Juillet 2016, Lyon.
+- A. Cadoret, E. Denimal, J-M Leroy, J-L Pfister, L. Mevel, Détection d'anisotropie d'un rotor d'éolienne par suivi du changement de phase des modes propres, Congrès Français de Mécanique, Nantes, Sept 2022. \href{https://hal.inria.fr/hal-03859882}{<hal-03859882>}
+- E. Denimal, J-J. Sinou, Méta-modélisation avancée et analyse de sensibilité pour la dynamique des rotors en contexte incertain, Congrès Français de Mécanique, Nantes, Sept 2022.\href{https://hal.inria.fr/hal-03859895}{<hal-03859895>}
+- E. Denimal, L. Renson, L. Salles, Optimisation topologique d'amortisseurs par frottement pour la réduction des résonances non-linéaires par approches MMC et EGO, CSMA 2022, Giens, Mai 2022. \href{https://hal.archives-ouvertes.fr/hal-03717948v1}{<hal-03717948v1>}
+- E. Denimal, Prédiction des instabilités de frottement par méta-modélisation et approches fréquentielles - Application au crissement de frein automobile, Colloque de Recherche Inter Ecoles Centrales, Lyon (France), 18 juin 2019.
+- E. Denimal, Prédiction des instabilités de frottement par méta-modélisation et approches fréquentielles - Application au crissement de frein automobile, Colloque national en calcul des structures, Giens (France), 13-17 mai 2019.
+- E. Denimal, J-J. Sinou, S. Nacivet, Mise en place d'une technique numérique pour l'estimation de vibrations non-linéaires auto-entretenues avec frottement - Application à la prédiction du crissement de frein automobile, Colloque national en calcul des structures, Giens (France), 13-17 mai 2019.\href{https://hal.archives-ouvertes.fr/hal-02449146v1}{<hal-02449146v1>}
+- E. Denimal, S. Nacivet, L. Nechak, J-J. Sinou, Influence des conditions de contact sur le crissement de frein, Colloque national en calcul des structures, Giens (France), 15-19 mai 2017. \href{https://hal.archives-ouvertes.fr/hal-01899348v1}{<hal-01899348v1>}
+- E. Denimal, S. Nacivet, L. Nechak, J-J. Sinou, Influence des états de contact sur le crissement de frein, Journées Jeunes Chercheurs en Acoustique, Vibration et Bruit, Marseille (France), 17-18 novembre 2016.
+- E. Denimal, A. Carbonelli, J. Perret-Liaudet, E. Rigaud, Static Transmission Error computation in planetary gears by quadratic optimization, Journées des Transmissions Mécaniques 2016, Juillet 2016, Lyon.
 
 </details>
 
