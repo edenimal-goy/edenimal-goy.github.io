@@ -18,7 +18,8 @@ You can find below a list of my different contributions, for an updated list you
 ----->
 
 <details>
-  <summary><b>Patents</b>
+  <summary>
+          <b>Patents</b>
   </summary>
 
 * E. Denimal,  S. Nacivet et J-J. Sinou, _Prédiction d'instabilité de crissement pour une frein de véhicule_, Brevet International PCT/FR2019/052753, November 2019.
@@ -26,6 +27,7 @@ You can find below a list of my different contributions, for an updated list you
   
 </details>
 
+<!----
 <details>
   <summary><b>Journal papers</b></summary>
   
@@ -82,6 +84,7 @@ Procedia Engineering, 2017, 199, pp.3260-3265, [DOI](https://doi.org/10.1016/j.p
 - E. Denimal, L. Nechak, J-J. Sinou, S. Nacivet, _A New Surrogate Modeling Method Associating Generalized Polynomial Chaos Expansion and Kriging for Mechanical Systems Subjected to Friction-Induced Vibration_,  IMAC XXXVth, Feb 2017, Los Angeles, California, USA, Special Topics in Structural Dynamics, Vol. 6, pp. 17-23, [DOI](http://dx.doi.org/10.1007/978-3-319-53841-9_2).
   
 </details>
+---->
 <!----
 <details>
   <summary><b>National communications</b></summary>
