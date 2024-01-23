@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can find below a list of my different contributions, for an updated list you can also refer to my <a href="https://scholar.google.com/citations?user=ZpAauKQAAAAJ&hl=en">Google Scholar</a> 
+
 <details> <summary> <b> Patent </b> </summary>
 <ol> 
         <li>E. Denimal,  S. Nacivet et J-J. Sinou, <l>Prédiction d'instabilité de crissement pour une frein de véhicule</l>, Brevet International PCT/FR2019/052753, November 2019.</li>
