@@ -5,10 +5,10 @@ permalink: /supervision/
 author_profile: true
 ---
 
-### On-going supervision
+## On-going supervision
 
 
-#### PhD Student
+### PhD Student
 
 - **Omar Kahol (IPP) - 2023-2026**
   - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
@@ -23,7 +23,7 @@ author_profile: true
   - Co-supervisors: M. Peigney
   - Financial support: academic scholarship for Université Gustave Eiffel
 
-#### Postdoc
+### Postdoc
 
 - **Adrien Mélot (Inria) - 2022-2024**
   - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
@@ -34,19 +34,19 @@ author_profile: true
   - Co-supervisors: C. Droz
   - Financial support: academic funding
 
-#### Master Students and interns
+### Master Students and interns
 - **D. Stancic** (FYP - Imperial College): Modelling of powder damping in 3D-printed components, with L. Renson (2023-2024)
 
-### Previous supervision
+## Previous supervision
 
-#### Postdoc
+### Postdoc
 
 - **Swarup Mahato (Inria/UGE) - 2020-2021**
   - Méthodes de classification pour le traitement de données éoliennes
   - Other supervisors: X. Chapeleau, M. Doehler, L. Mevel
   - Financial support: MUSIWIND RFI Wise funding
 
-#### PhD Student
+### PhD Student
 
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
   - OMA methods for wind turbine monitoring,
@@ -57,7 +57,7 @@ author_profile: true
   - Nonlinear Modal Analysis for Blisks with Friction Dampers
   - L. Salles and J. Yuan
 
-#### Master Students and Interns
+### Master Students and Interns
 - 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam.
 - 2023 - M. Nolot (L3) - Inria Rennes, ML for bifurcation prediction in friction induced vibrations
 - 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades
