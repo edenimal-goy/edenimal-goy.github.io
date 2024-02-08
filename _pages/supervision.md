@@ -5,8 +5,8 @@ permalink: /supervision/
 author_profile: true
 ---
 
-On-going supervision
-==
+## On-going supervision
+
 
 ### PhD Student
 
@@ -37,8 +37,7 @@ On-going supervision
 ### Master Students and interns
 - **D. Stancic** (FYP - Imperial College): Modelling of powder damping in 3D-printed components, with L. Renson (2023-2024)
 
-Previous supervision
-==
+## Previous supervision
 
 ### Postdoc
 
