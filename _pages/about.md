@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a researcher at Inria Saclay, near Paris, in the team [Platon](https://team.inria.fr/platon/presentation/). This team is part of the [CMAP](https://cmap.ip-paris.fr/) (Centre de Mathématiques Appliquées, École Polytechnique – UMR7641 CNRS – Institut Polytechnique de Paris), and affiliated with the Inria Saclay Île-de-France Research Center on the École Polytechnique campus.
+I am a researcher at Inria Saclay, near Paris, in the team [Platon](https://team.inria.fr/platon/presentation/). This team is part of the [CMAP](https://cmap.ip-paris.fr/) (Centre de Mathématiques Appliquées, École Polytechnique – UMR 7641 CNRS – Institut Polytechnique de Paris), and affiliated with the Inria Saclay Île-de-France Research Center on the École Polytechnique campus.
 
 My research is focused on the development of numerical methods for Uncertainty Quantification (UQ) and robust optimisation and their application in nonlinear dynamic structures for various real-world applications (automotive, aerospace, wind turbine etc). So far, I have worked on the following topics:
 
