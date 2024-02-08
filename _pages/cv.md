@@ -14,9 +14,9 @@ redirect_from:
 * 2024-now: Inria researcher, [Platon](https://team.inria.fr/platon/presentation/) team, Inria Saclay, France
 * 2020-2023: Inria researcher, [I4S](https://team.inria.fr/i4s/) team, Inria Rennes, France
 * 2019-2020: Research Associate, Imperial College London, [VUTC](https://www.imperial.ac.uk/vutc/) team, UK
-* 2015-2018: PhD in Mechanical Engineering, Laboratory of Tribology and Dynamics of Systems UMR CNRS 5513, Ecole Centrale de Lyon, France
+* 2015-2018: PhD in Mechanical Engineering, [Laboratory of Tribology and Dynamics of Systems](https://ltds.ec-lyon.fr/) UMR CNRS 5513, Ecole Centrale de Lyon, France
 * 2014-2015: MSc in Structural Dynamics, Ecole Centrale of Lyon, France 
-* 2012-2015: Engineering degree, Ecole Centrale of Lyon, France
+* 2012-2015: Engineering degree, [Ecole Centrale of Lyon](https://www.ec-lyon.fr/), France
 
 ## Community work
 
