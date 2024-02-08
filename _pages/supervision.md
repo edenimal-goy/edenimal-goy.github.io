@@ -12,26 +12,26 @@ author_profile: true
 
 - **Omar Kahol (IPP) - 2023-2026**
   - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
-  - Co-supervisors: P.M. Congedo and O. Le Maitre
+  - Co-supervisors: P.M. Congedo (Inria, Platon) and O. Le Maitre (CNRS, Platon)
   - Financial support: European Doctoral Network [TRACES](https://traces-project.eu/)
 - **Nina Delette (Univ Rennes, IFPEN) - 2023-2026**
   - Title: Digital twin for wind turbine monitoring
-  - Co-supervisors: L. Mevel, JL Pfister, JM Leroy and R. El Amri
+  - Co-supervisors: L. Mevel (Inria, I4S), JL Pfister (IFPEN), JM Leroy (IFPEN) and R. El Amri (IFPEN)
   - Financial support: industrial funding support from IFPEN
 - **Hugo Masson (ENPC) - 2023-2026**
   - Title: Robust topology optimisation for metallic 3D printing
-  - Co-supervisors: M. Peigney
+  - Co-supervisors: M. Peigney (UGE, ENPC)
   - Financial support: academic scholarship for Université Gustave Eiffel
 
 ### Postdoc
 
 - **Adrien Mélot (Inria) - 2022-2024**
   - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
-  - Co-supervisors: L. Renson
+  - Co-supervisors: L. Renson (Imperial College London)
   - Financial support: Inria Exploratory action [NO-BIF](https://www.inria.fr/en/no-bif)
 - **Vincent Mahé (Inria) - 2023-2024**
   - Topology optimisation for periodic structures
-  - Co-supervisors: C. Droz
+  - Co-supervisors: C. Droz (Inria, I4S)
   - Financial support: academic funding
 
 ### Master Students and interns
@@ -43,19 +43,19 @@ author_profile: true
 
 - **Swarup Mahato (Inria/UGE) - 2020-2021**
   - Méthodes de classification pour le traitement de données éoliennes
-  - Other supervisors: X. Chapeleau, M. Doehler, L. Mevel
+  - Other supervisors: X. Chapeleau (UGE, I4S), M. Doehler (Inria, I4S), L. Mevel (Inria, I4S)
   - Financial support: MUSIWIND RFI Wise funding
 
 ### PhD Student
 
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
   - OMA methods for wind turbine monitoring,
-  - L. Mevel, JL Pfister and JM Leroy (2020-2023)
+  - Co-supervisors: L. Mevel (Inria, I4S), JL Pfister (IFPEN) and JM Leroy (IFPEN)
   - Financial support: industrial funding from IFPEN
   - Now Engineer at GreenWITZ
 - **Yekai Sun (Imperial College London) - 2018-2021**
   - Nonlinear Modal Analysis for Blisks with Friction Dampers
-  - L. Salles and J. Yuan
+  - Co-supervisors: L. Salles (Imperial College) and J. Yuan (Imperial College)
 
 ### Master Students and Interns
 - 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam.
