@@ -8,7 +8,7 @@ author_profile: true
 ## On-going supervision
 
 
-### PhD Student
+### PhD Students
 
 - **Omar Kahol (IPP) - 2023-2026**
   - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
@@ -23,7 +23,7 @@ author_profile: true
   - Co-supervisors: M. Peigney (UGE, ENPC)
   - Financial support: academic scholarship for Université Gustave Eiffel
 
-### Postdoc
+### Postdocs
 
 - **Vincent Mahé (Inria) - 2023-2024**
   - Topology optimisation for periodic structures
@@ -35,11 +35,12 @@ author_profile: true
 
 ## Previous supervision
 
-### Postdoc
+### Postdocs
 
-<details><summary>
+<details>
+  <summary>
   
-### Postdoc 
+### Postdocs
 
 </summary>
   
@@ -53,7 +54,7 @@ author_profile: true
   - Financial support: MUSIWIND RFI Wise funding
 </details>
   
-### PhD Student
+### PhD Students
 
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
   - OMA methods for wind turbine monitoring,
