@@ -25,10 +25,6 @@ author_profile: true
 
 ### Postdoc
 
-- **Adrien Mélot (Inria) - 2022-2024**
-  - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
-  - Co-supervisors: L. Renson (Imperial College London)
-  - Financial support: Inria Exploratory action [NO-BIF](https://www.inria.fr/en/no-bif)
 - **Vincent Mahé (Inria) - 2023-2024**
   - Topology optimisation for periodic structures
   - Co-supervisors: C. Droz (Inria, I4S)
@@ -41,6 +37,10 @@ author_profile: true
 
 ### Postdoc
 
+- **Adrien Mélot (Inria) - 2022-2024**
+  - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
+  - Co-supervisors: L. Renson (Imperial College London)
+  - Financial support: Inria Exploratory action [NO-BIF](https://www.inria.fr/en/no-bif)
 - **Swarup Mahato (Inria/UGE) - 2020-2021**
   - Méthodes de classification pour le traitement de données éoliennes
   - Other supervisors: X. Chapeleau (UGE, I4S), M. Doehler (Inria, I4S), L. Mevel (Inria, I4S)
