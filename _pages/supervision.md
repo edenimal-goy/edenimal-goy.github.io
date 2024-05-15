@@ -37,6 +37,12 @@ author_profile: true
 
 ### Postdoc
 
+<details><summary>
+  
+### Postdoc 
+
+</summary>
+  
 - **Adrien Mélot (Inria) - 2022-2024**
   - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
   - Co-supervisors: L. Renson (Imperial College London)
@@ -45,7 +51,8 @@ author_profile: true
   - Méthodes de classification pour le traitement de données éoliennes
   - Other supervisors: X. Chapeleau (UGE, I4S), M. Doehler (Inria, I4S), L. Mevel (Inria, I4S)
   - Financial support: MUSIWIND RFI Wise funding
-
+</details>
+  
 ### PhD Student
 
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
