@@ -39,7 +39,6 @@ author_profile: true
 
 <details>
   <summary>
-  
 ### Postdocs
 
 </summary>
