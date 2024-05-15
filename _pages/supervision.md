@@ -35,9 +35,7 @@ author_profile: true
 
 ## Previous supervision
 
-<!----- ### Postdocs ----->
-
-<details><summary>Postdocs</summary>
+### Postdocs
   
 - **Adrien Mélot (Inria) - 2022-2024**
   - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
@@ -47,12 +45,10 @@ author_profile: true
   - Méthodes de classification pour le traitement de données éoliennes
   - Other supervisors: X. Chapeleau (UGE, I4S), M. Doehler (Inria, I4S), L. Mevel (Inria, I4S)
   - Financial support: MUSIWIND RFI Wise funding
-</details>
-  
-<!----- ### PhD Students ------->
 
-<details><summary>PhD Students</summary>
   
+### PhD Students
+
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
   - OMA methods for wind turbine monitoring,
   - Co-supervisors: L. Mevel (Inria, I4S), JL Pfister (IFPEN) and JM Leroy (IFPEN)
@@ -61,12 +57,9 @@ author_profile: true
 - **Yekai Sun (Imperial College London) - 2018-2021**
   - Nonlinear Modal Analysis for Blisks with Friction Dampers
   - Co-supervisors: L. Salles (Imperial College) and J. Yuan (Imperial College)
-</details>
 
-<!----- ### Master Students and Interns ------>
+### Master Students and Interns 
 
-<details><summary>Master students and interns</summary>
-  
 - 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam.
 - 2023 - M. Nolot (L3) - Inria Rennes, ML for bifurcation prediction in friction induced vibrations
 - 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades
@@ -81,7 +74,7 @@ author_profile: true
 - 2021 - A. Bisoi (FYP)  - Imperial College, Topological optimisation using additive manufacturing for robotic applications
 - 2020 - A. Gough (FYP)  - Imperial College, Topology optimisation of turbine blades with static loading 
 - 2019 - S. Bhatnagar (FYP)  - Imperial College, Uncertainty quantification in the nonlinear dynamics of friction dampers 
-</details>
+
 
 <!-----
 {% include base_path %}
