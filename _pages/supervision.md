@@ -23,20 +23,15 @@ author_profile: true
   - Co-supervisors: M. Peigney (UGE, ENPC)
   - Financial support: academic scholarship for Université Gustave Eiffel
 
+
+## Previous supervision
+
 ### Postdocs
 
 - **Vincent Mahé (Inria) - 2023-2024**
   - Topology optimisation for periodic structures
   - Co-supervisors: C. Droz (Inria, I4S)
   - Financial support: academic funding
-
-### Master Students and interns
-
-
-## Previous supervision
-
-### Postdocs
-  
 - **Adrien Mélot (Inria) - 2022-2024**
   - Title: Structural optimisation of nonlinear dynamical systems with bifurcation behaviour
   - Co-supervisors: L. Renson (Imperial College London)
