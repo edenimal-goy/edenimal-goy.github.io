@@ -31,7 +31,7 @@ author_profile: true
   - Financial support: academic funding
 
 ### Master Students and interns
-- **D. Stancic** (FYP - Imperial College): Modelling of powder damping in 3D-printed components, with L. Renson (2023-2024)
+
 
 ## Previous supervision
 
@@ -60,20 +60,21 @@ author_profile: true
 
 ### Master Students and Interns 
 
-- 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam.
+- 2024 - D. Stancic (FYP) - Imperial College, Modelling of powder damping in 3D-printed components, with L. Renson (ICL)
+- 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam, with L. Mevel (Inria Rennes)
 - 2023 - M. Nolot (L3) - Inria Rennes, ML for bifurcation prediction in friction induced vibrations
-- 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades
-- 2022 - E. Valdecasa (M1)  - Imperial College/Inria, Impression 3D et validation expérimentales de structures non-linéaires vibrantes
+- 2023 - A. Hu (MSc)  - Imperial College, Powder-based damping of aero-engine blades, with L. Renson (ICL)
+- 2022 - E. Valdecasa (M1)  - Imperial College/Inria, Impression 3D et validation expérimentales de structures non-linéaires vibrantes, with L. Renson (ICL)
 - 2022 - S. Fruchard (M2) - Inria Rennes, Topology optimisation of 3D beams for vibration by global optimisation technics 
-- 2022 - P. Le Gouvello (M1) - Inria Rennes/UGE, Dynamic modelling of the Tabarly bridge (Nantes) 
-- 2022 - J. Videau (MSc)  - Imperial College, Topology optimisation and experimental validation of underplatform dampers for bladed discs
-- 2022 - D. Wickens (MSc)  - Imperial College, 3D printing and test of topologicaly optimised blades
+- 2022 - P. Le Gouvello (M1) - Inria Rennes/UGE, Dynamic modelling of the Tabarly bridge (Nantes), with L. Renson (ICL) 
+- 2022 - J. Videau (MSc)  - Imperial College, Topology optimisation and experimental validation of underplatform dampers for bladed discs, with L. Renson (ICL)
+- 2022 - D. Wickens (MSc)  - Imperial College, 3D printing and test of topologicaly optimised blades, with L. Renson (ICL)
 - 2021 - R. Chevalier (M1)  - Imperial College, Integration of mechanical constraints for the topology optimisation of friction dampers
-- 2021 - C. Firgau  (FYP) - Imperial College, Topology optimisation of bladed disc by integrating 3D-printing constraint 
-- 2021 - V. Barreau (MSc)  - Imperial College, Topology optimisation of and 3D printing of bladed disc for modal coincidences 
-- 2021 - A. Bisoi (FYP)  - Imperial College, Topological optimisation using additive manufacturing for robotic applications
-- 2020 - A. Gough (FYP)  - Imperial College, Topology optimisation of turbine blades with static loading 
-- 2019 - S. Bhatnagar (FYP)  - Imperial College, Uncertainty quantification in the nonlinear dynamics of friction dampers 
+- 2021 - C. Firgau  (FYP) - Imperial College, Topology optimisation of bladed disc by integrating 3D-printing constraint, with L. Renson (ICL) 
+- 2021 - V. Barreau (MSc)  - Imperial College, Topology optimisation of and 3D printing of bladed disc for modal coincidences, with L. Salles (ICL) 
+- 2021 - A. Bisoi (FYP)  - Imperial College, Topological optimisation using additive manufacturing for robotic applications, with L. Salles and M. Tufecki (ICL)
+- 2020 - A. Gough (FYP)  - Imperial College, Topology optimisation of turbine blades with static loading, with L. Salles (ICL) 
+- 2019 - S. Bhatnagar (FYP)  - Imperial College, Uncertainty quantification in the nonlinear dynamics of friction dampers, with L. Salles (ICL) 
 
 
 <!-----
