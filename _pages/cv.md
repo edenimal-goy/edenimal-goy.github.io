@@ -20,6 +20,7 @@ redirect_from:
 
 ## Community work
 
+* 2024-now: Elected board member of the [CSMA Junior](https://csma.fr/csma-juniors/)
 * 2023-now: Board member of the French research group (GDR) [EX-MODELI](https://events.femto-st.fr/GdR-EX-MODELI/)
 * 2023-now: Member of the Inria national [Committee on Gender Equality and Equal Opportunities](https://parite.inria.fr/en/)
 * 2021-2023: Member of the [Committee on Gender Equality](https://egalite-fh.irisa.fr/) of the Inria Center of Rennes
