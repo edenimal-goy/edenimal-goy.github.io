@@ -10,6 +10,10 @@ author_profile: true
 
 ### PhD Students
 
+- **Erwan Dehillerin (Inria Saclay) - 2024-2027**
+  - Title: Advanced surrogate modelling techniques for SHM in nonlinear rotor dynamics
+  - Co-supervisors: J-J. Sinou (Ecole Centrale of Lyon)
+  - Financial support: ANR JCJC MeMoRa 
 - **Omar Kahol (IPP) - 2023-2026**
   - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
   - Co-supervisors: P.M. Congedo (Inria, Platon) and O. Le Maitre (CNRS, Platon)
