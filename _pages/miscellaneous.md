@@ -7,12 +7,13 @@ author_profile: true
 
 ## Ongoing projets
 - ANR JCJC MeMoRa (2024-2028) - Scientific leader
+- Associate Team [HYPATIE](https://team.inria.fr/hypatie/) (2024-2027) in collaboration with [L. Renson](https://profiles.imperial.ac.uk/l.renson), Imperial College London
 - [TRACES](https://traces-project.eu/) Doctoral Network (2024-2027)
 - [NO-BIF](https://www.inria.fr/en/no-bif) (2022-2024) - Scientific leader
 
 ## Previous projects
 - AIS Rennes (2021-2023) - Scientific leader
-- UNIFY project (2021-2023) in collaboration with Strathclyde University
+- UNIFY project (2021-2023) in collaboration with J. Yuan at Strathclyde University
   
 ## Editorial responsibilities
 
