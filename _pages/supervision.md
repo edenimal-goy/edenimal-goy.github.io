@@ -11,7 +11,7 @@ author_profile: true
 ### PhD Students
 
 - **Erwan Dehillerin (Inria Saclay) - 2024-2027**
-  - Title: Advanced surrogate modelling techniques for SHM in nonlinear rotor dynamics
+  - Title: Advanced surrogate modelling methods for early damage detection in uncertain nonlinear rotors based on antiresonances 
   - Co-supervisors: J-J. Sinou (Ecole Centrale of Lyon)
   - Financial support: ANR JCJC MeMoRa 
 - **Omar Kahol (IPP) - 2023-2026**
