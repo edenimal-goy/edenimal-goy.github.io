@@ -28,7 +28,7 @@ author_profile: true
   - Financial support: academic scholarship for Université Gustave Eiffel
 - **Carlos Neves (Politecnico di Milano/IPP) - 2023-2026**
   - Title: Robust Multi-Level Ice Detection System for Rotorcraft and Propellers
-  - Co-supervisors: P.M. Congedo (Inria, Platon) and A. Guardone (politecnico di Milano)
+  - Co-supervisors: P.M. Congedo (Inria, Platon) and A. Guardone (Politecnico di Milano)
   - Financial support: European Doctoral Network [TRACES](https://traces-project.eu/)
 
 ## Previous supervision
