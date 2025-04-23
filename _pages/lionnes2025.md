@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Lionnes 2025"
-permalink: /lionnes2025/
+title: "Médiation"
+permalink: /mediation/
 author_profile: true
 ---
 
