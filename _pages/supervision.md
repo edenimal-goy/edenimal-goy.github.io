@@ -62,6 +62,8 @@ author_profile: true
 
 ### Master Students and Interns 
 
+- 2026 - S. A. Silue (M1) - Inria Saclay, Multi-fidelity methods for heterogeneous data, with P.M. Congedo (Inria Saclay)
+- 2025 - V. Moulinier (M2) - Imperial College, Topology optimisation for geometric nonlinear vibrations, with L. Renson (ICL)
 - 2024 - D. Stancic (FYP) - Imperial College, Modelling of powder damping in 3D-printed components, with L. Renson (ICL)
 - 2023 - A. Akbar Rida (M2) - Inria Rennes, Bayesian model updating for robust fault detection in a FEM of a cracked beam, with L. Mevel (Inria Rennes)
 - 2023 - M. Nolot (L3) - Inria Rennes, ML for bifurcation prediction in friction induced vibrations
