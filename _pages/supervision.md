@@ -10,14 +10,14 @@ author_profile: true
 
 ### PhD Students
 
+- **Raphaëlle Legendre (IPP) - 2026-2029**
+  - Title: Multi-Fidelity Scientific Machine Learning with Heterogeneous Inputs
+  - Co-supervisors: P.M. Congedo (Inria, Platon) 
+  - Financial support: MetiTwin project
 - **Erwan Dehillerin (Inria Saclay) - 2024-2027**
   - Title: Advanced surrogate modelling methods for early damage detection in uncertain nonlinear rotors based on antiresonances 
   - Co-supervisors: J-J. Sinou (Ecole Centrale of Lyon)
   - Financial support: ANR JCJC MeMoRa 
-- **Omar Kahol (IPP) - 2023-2026**
-  - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
-  - Co-supervisors: P.M. Congedo (Inria, Platon) and O. Le Maitre (CNRS, Platon)
-  - Financial support: European Doctoral Network [TRACES](https://traces-project.eu/)
 - **Nina Delette (Univ Rennes, IFPEN) - 2023-2026**
   - Title: Digital twin for wind turbine monitoring
   - Co-supervisors: L. Mevel (Inria, I4S), JL Pfister (IFPEN), JM Leroy (IFPEN) and R. El Amri (IFPEN)
@@ -51,6 +51,10 @@ author_profile: true
   
 ### PhD Students
 
+- **Omar Kahol (IPP) - 2023-2026**
+  - Title: Robust assessment of the model error for ice accretion models through Bayesian-based methods and experimental data
+  - Co-supervisors: P.M. Congedo (Inria, Platon) and O. Le Maitre (CNRS, Platon)
+  - Financial support: European Doctoral Network [TRACES](https://traces-project.eu/)
 - **Ambroise Cadoret (Univ. Rennes/IFPEN) - 2020-2023**
   - OMA methods for wind turbine monitoring,
   - Co-supervisors: L. Mevel (Inria, I4S), JL Pfister (IFPEN) and JM Leroy (IFPEN)
@@ -62,6 +66,7 @@ author_profile: true
 
 ### Master Students and Interns 
 
+- 2026/2027 - N. Camorani (M2) - Imperial College London/Inria Saclay, Robust topology optimisation of industrial aircraft blades, with L. Renson (ICL)
 - 2026 - S. A. Silue (M1) - Inria Saclay, Multi-fidelity methods for heterogeneous data, with P.M. Congedo (Inria Saclay)
 - 2025 - V. Moulinier (M2) - Imperial College, Topology optimisation for geometric nonlinear vibrations, with L. Renson (ICL)
 - 2024 - D. Stancic (FYP) - Imperial College, Modelling of powder damping in 3D-printed components, with L. Renson (ICL)
